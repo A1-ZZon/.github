@@ -14,7 +14,8 @@ Unity, C#
 ### :bulb: 게임 설명
 
 > 보스가 살고 있는 큐브 행성에 히어로들이 쳐들어온다 . . .  
-히어로들을 물리치고 스탯을 강화해 점점 강해지는 방치형 게임!   
+히어로들의 노잣돈을 삥땅치고 강해져만 가는 우리 보스님. . .
+> 
 
 ### :bulb: Notion    
 [Team Notion](https://teamsparta.notion.site/Z1-ce7f9790aa424f2c89cc06ca71a237bb)  
