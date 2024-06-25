@@ -1,12 +1,37 @@
-## Hi there 👋
+<br/>
 
-<!--
+## <p align="center">  👾 Idle-Boss 👾 
 
-**Here are some ideas to get you started:**
+### <p align="center"> Unity 3D 보스 키우기 방치형 게임 </p> 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<br/>
+<br/>
+
+### :bulb: 개발 환경
+```
+Unity, C#
+```
+### :bulb: 게임 설명
+
+> 보스가 살고 있는 큐브 행성에 히어로들이 쳐들어온다 . . .  
+히어로들을 물리치고 스탯을 강화해 점점 강해지는 방치형 게임!   
+
+### :bulb: Notion    
+[Team Notion](https://teamsparta.notion.site/Z1-ce7f9790aa424f2c89cc06ca71a237bb)  
+<br/>
+
+### :bulb: 플레이 영상
+
+<br/>
+
+### :bulb: 사용 기능
+![Image](https://github.com/A1-ZZon/Idle-Boss-Public/assets/43170505/cd9e336a-9784-44ca-a6ce-cd183ce02a1c)
+
+<br/>
+
+### :bulb: 클래스 구조
+![image](https://github.com/A1-ZZon/Idle-Boss-Public/assets/43170505/c9d7014b-5745-4f41-b7ac-71376c0aa24e)
+![image](https://github.com/A1-ZZon/Idle-Boss-Public/assets/43170505/3410c77f-0249-4209-a682-63441f2f96c4)
+
+
+
